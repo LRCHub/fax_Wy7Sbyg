@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Rock Me",
+  "base_artist": "One Direction",
+  "createdAt": "2026-02-23T12:04:44.731526Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rock Me Amadeus (The Gold Mix)",
+      "artist": "Falco",
+      "has_synced": true,
+      "path": "select/01_Rock_Me_Amadeus_(The_Gold_Mix)_Falco.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rock Me Now",
+      "artist": "Metric",
+      "has_synced": true,
+      "path": "select/02_Rock_Me_Now_Metric.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rock Me Baby",
+      "artist": "Otis Redding",
+      "has_synced": true,
+      "path": "select/03_Rock_Me_Baby_Otis_Redding.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rock Me Baby",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/04_Rock_Me_Baby_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rock Me Baby (With Eric Clapton)",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/05_Rock_Me_Baby_(With_Eric_Clapton)_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rock Me Amadeus",
+      "artist": "Falco",
+      "has_synced": true,
+      "path": "select/06_Rock_Me_Amadeus_Falco.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rock Me Amadeus (Extended Version)",
+      "artist": "Falco",
+      "has_synced": true,
+      "path": "select/07_Rock_Me_Amadeus_(Extended_Version)_Falco.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rock Me Baby",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/08_Rock_Me_Baby_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "rock me amadeus",
+      "artist": "Falco",
+      "has_synced": true,
+      "path": "select/09_rock_me_amadeus_Falco.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rock Me",
+      "artist": "ABBA",
+      "has_synced": false,
+      "path": "select/10_Rock_Me_ABBA.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rock Me",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/11_Rock_Me_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rock Me My Baby",
+      "artist": "Buddy Holly",
+      "has_synced": true,
+      "path": "select/12_Rock_Me_My_Baby_Buddy_Holly.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Please Don't Rock Me Tonight",
+      "artist": "Fountains of Wayne",
+      "has_synced": true,
+      "path": "select/13_Please_Don't_Rock_Me_Tonight_Fountains_of_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Only You Can Rock Me",
+      "artist": "UFO",
+      "has_synced": false,
+      "path": "select/14_Only_You_Can_Rock_Me_UFO.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rock Me",
+      "artist": "Great White",
+      "has_synced": true,
+      "path": "select/15_Rock_Me_Great_White.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rock Me",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Rock_Me_One_Direction.txt"
+    }
+  ]
+}
